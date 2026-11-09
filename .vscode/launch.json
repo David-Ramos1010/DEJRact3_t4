@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemocrudApplication<democrud>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.davidramos1010.democrud.DemocrudApplication",
+            "projectName": "democrud",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
