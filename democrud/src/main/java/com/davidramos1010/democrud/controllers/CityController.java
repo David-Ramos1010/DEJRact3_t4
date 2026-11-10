@@ -13,7 +13,7 @@ import com.davidramos1010.democrud.repository.CityRepository;
 
 @Controller 
 public class CityController {
-    @Autowired
+    @Autowired 
     private CityRepository repo;
 
     // LISTAR
