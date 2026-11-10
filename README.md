@@ -1,4 +1,4 @@
-# 1. Act1. Introducción a Spring Boot.
+# 3. Act3. CRUD en Spring Boot y Relaciones.
 ## Construí un CRUD completo en Spring Boot conectado a una base de datos real, implemente al menos una relación entre entidades, y lo probé con sus propias vistas dentro del mismo proyecto y con Postman.
 #### Elaborado por: David Efraín José Ramos NL 19
 ***
@@ -34,7 +34,7 @@ Postman: https://lunar-zodiac-927693.postman.co/workspace/ACTIVIDAD_6~44ba4e90-6
 #### READ
 ![datos](img/img3_1.png)
 ![datos](img/img3_2.png)
-![datos](img/img3_#.png)
+![datos](img/img3_3.png)
 #### UPDATE
 ![materias](img/img4_1.png)
 ![materias](img/img4_2.png)
